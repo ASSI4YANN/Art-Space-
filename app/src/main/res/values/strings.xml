@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="artwork1_title">La Joconde</string>
+    <string name="artwork1_artist_year">Léonard de Vinci (1503)</string>
+    <string name="artwork2_title">Vallée Enchantée</string>
+    <string name="artwork2_artist_year">Artiste Numérique (2023)</string>
+    <string name="artwork3_title">L\'Assemblée des Dieux</string>
+    <string name="artwork3_artist_year">Jean-Auguste-Dominique Ingres (1811)</string>
+    <string name="previous_button">Précédent</string>
+    <string name="next_button">Suivant</string>
+</resources>
